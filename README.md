@@ -1,6 +1,7 @@
 # GeneralStuff
 
-Attempt two at getting GitKracken to work properly.
+~~Attempt two at getting GitKracken to work properly.~~
+I have given up on GitKracken, doesn't suit my needs, GitHubs own linux app works well for me.
 
 ~~Nothing in this repo yet, probably end up being random chunks of code or schematics.~~
 
