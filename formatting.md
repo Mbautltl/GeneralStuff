@@ -1,6 +1,6 @@
-#Markdown formatting
+# Markdown formatting
 
-##Pictures
+## Pictures
 
 This displays a different image depending on light/dark theme
 
@@ -21,7 +21,7 @@ Replace your-alt-text with description of images for use with a screen reader.
 
 This is a responsive image.
 
-##Adding a Table
+## Adding a Table
 
 ## This is a header
 
@@ -31,7 +31,7 @@ This is a responsive image.
 |      2|               |
 |      3|               |
 
-#Collapsed section
+# Collapsed section
 
 To add a collapsed section, i.e. the above table, wrap the table in details section:
 
@@ -50,36 +50,36 @@ To add a collapsed section, i.e. the above table, wrap the table in details sect
 
 To make it open by default add the open attribute to the details tag.
 
-##Adding a quote
+## Adding a quote
 
 ---
 > If we pull together and commit ourselves, then we can push through anything.
 
 — Mona the Octocat
 
-##Adding a comment
+## Adding a comment
 
 ## About me
 
 <!-- TO DO: add more details about me later -->
 
-#Headings
-##Second level heading
-###Third level heading
+# Headings
+## Second level heading
+### Third level heading
 
-##Styling text
+## Styling text
 
-**This is bold text**
-__This is bold text as well__
-*Some italic text*
-_This works as well_
-~~The Tilde will strike through~~
-**Bold and _nested_ italics**
-***This is bold AND italics***
-We can also do <sub>subscript</sub> text
-And also <sup>superscript</sup>!!!
+**This is bold text**  
+__This is bold text as well__  
+*Some italic text*  
+_This works as well_  
+~~The Tilde will strike through~~  
+**Bold and _nested_ italics**  
+***This is bold AND italics***  
+We can also do <sub>subscript</sub> text  
+And also <sup>superscript</sup>!!!  
 
-##Quoting code
+## Quoting code
 
 Use back ticks to quote code:
 
@@ -94,17 +94,17 @@ git add
 git commit
 ```
 
-##Colours!!
+## Colours!!
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
-##Links
+## Links
 
-Wrap the text in a bracket to create a link:
+Wrap the text in a bracket to create a link:  
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 
-##Lists
+## Lists
 
 - Tom
 * Dick
@@ -131,17 +131,17 @@ If you really want to be clever, you can nest them!
 
 Use four spaces or some tabs to create the nests, eight for a second nest. Two spaces are needed at the end for a new line.
 
-##Task list
+## Task list
 
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-##Paragraphs
+## Paragraphs
 
 You can create a new paragraph by leaving a blank line between lines of text.
 
-##Footnotes
+## Footnotes
 
 Here is a simple footnote[^1].
 
@@ -151,7 +151,7 @@ A footnote can also have multiple lines[^2].
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.
 
-##Alerts
+## Alerts
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
@@ -168,11 +168,11 @@ A footnote can also have multiple lines[^2].
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-##Hiding in comments
+## Hiding in comments
 
 <!-- This content will not appear in the rendered Markdown -->
 
-##Ignoring markdown formatting
+## Ignoring markdown formatting
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
