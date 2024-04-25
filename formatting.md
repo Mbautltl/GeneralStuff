@@ -121,9 +121,9 @@ Or you can number them!
 If you really want to be clever, you can nest them!
 
 1. First  
-    First nested  
-    Something else  
-        Another nest!  
+    1. First nested  
+    2. Something else  
+        1. Another nest!  
 2. Second item  
     1. Second first nest  
         2. Another nest again!  
